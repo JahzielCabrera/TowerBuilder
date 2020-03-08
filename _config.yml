@@ -111,3 +111,5 @@ collections:
 # Set to false to hide excerpts on the posts page
 show_excerpts: true
 future: true
+
+theme: jekyll-theme-leap-day
